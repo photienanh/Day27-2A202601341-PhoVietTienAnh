@@ -1,0 +1,9 @@
+langgraph>=1.0.0
+langchain-core>=1.0.0
+streamlit>=1.30.0
+pydantic>=2.0.0
+pandas>=2.0.0
+
+# Chi can khi bat che do LLM that (xem README muc 2). Khong bat thi mock agent chay offline.
+langchain-openai>=1.0.0
+python-dotenv>=1.0.0
